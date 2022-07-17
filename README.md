@@ -12,6 +12,8 @@ What is inside:
  
 App is published at 
 <https://62d3eeac4624d446f4154135--effulgent-shortbread-7b1583.netlify.app>
+
 Metadata is stored at <https://bafkreialfuhmdntjfd5g77k3pwfznpst3olwac3oum3xy5elb7uhxcylsa.ipfs.nftstorage.link>
+
 Sample image is stored at <https://bafkreigzled7rgibyajdvebzwz2f6fmrn2pcckh5xqp2pmryg6aumqqjte.ipfs.nftstorage.link>
 
