@@ -1,4 +1,4 @@
-#Minter smatr contract
+#Minter smart contract
 
 
 
