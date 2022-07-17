@@ -1,0 +1,15 @@
+{
+    "name": "Sky #1",
+    "description": "Cadena NFT Collection for NFT 101 Course",
+    "image": "https://bafkreigzled7rgibyajdvebzwz2f6fmrn2pcckh5xqp2pmryg6aumqqjte.ipfs.nftstorage.link",
+    "edition": 1,
+    "date": 1658001934998,
+    "artist": "AMax",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        }
+    ],
+    "compiler": "HashLips Art Engine"
+}

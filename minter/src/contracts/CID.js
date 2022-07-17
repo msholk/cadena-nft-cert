@@ -1,0 +1,1 @@
+export const NFTStorageMetaDataCID = "QmbXdMznfExuiw9cy7BeYMeYKMiLWZbfF7bcANnuiwQgH6"
