@@ -1,6 +1,6 @@
-# Cadena Bank DAPP
+# Minter sample project
 
-This is the completed code for the Bank DAPP.
+Check first **smartcontract** instalation.
 
 ## To Install
 
